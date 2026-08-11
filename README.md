@@ -1,1 +1,1 @@
-# Bit-cora-electr-nica-digital-S2-2026
+# Bitacora-electronica-digital-S2-2026
