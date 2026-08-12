@@ -1,4 +1,4 @@
 # Bitacora-electronica-digital-S2-2026
-*Nicole Renata 
-**Statement
+#Nicole Renata 
+##Statement
 kjkjk
