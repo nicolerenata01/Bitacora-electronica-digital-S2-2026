@@ -12,7 +12,6 @@ Trabajo con instalaciones, objetos textiles, biomateriales y materiales recupera
 
 ## Artistas referentes
 ### Gilberto Esparza (México)
-    
 ![img 1](img/planta%20nomada.jpg)
 ![img 2](img/PLANTAS-NOMADAS-GILBERTO-ESPARZA-02.jpg)
-
+![Plantas Nomadas](http://youtube.com/watch?v=US9q2ayKANk)
