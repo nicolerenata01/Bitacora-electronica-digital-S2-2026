@@ -11,4 +11,8 @@ Trabajo con instalaciones, objetos textiles, biomateriales y materiales recupera
 *“¿Tiene derecho el hombre a sacrificar sus tesoros naturales en beneficio del progreso? No lo creo”.* (Juan Carlos Bodoque, 31 minutos)
 
 ## Artistas referentes
-### 
+### Gilberto Esparza (México)
+    
+![img 1](img/planta%20nomada.jpg)
+![img 2](img/PLANTAS-NOMADAS-GILBERTO-ESPARZA-02.jpg)
+
