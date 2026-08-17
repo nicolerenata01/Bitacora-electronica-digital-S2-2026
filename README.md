@@ -8,3 +8,7 @@ Respecto a mi trabajo, me interesa explorar el territorio, las relaciones que co
 
 Trabajo con instalaciones, objetos textiles, biomateriales y materiales recuperados-reciclados. Para mí, el hacer es una forma de pensar, conocer de dónde vienen, cómo han sido utilizados y qué relaciones existen detrás de ellos me permite comprender mejor aquello que quiero abordar y construir desde ahí
 
+*“¿Tiene derecho el hombre a sacrificar sus tesoros naturales en beneficio del progreso? No lo creo”.* (Juan Carlos Bodoque, 31 minutos)
+
+## Artistas referentes
+### 
