@@ -8,6 +8,8 @@ Creo en el hacer como una forma de pensar, acercarme a los materiales, conocer s
 
 *“¿Tiene derecho el hombre a sacrificar sus tesoros naturales en beneficio del progreso? No lo creo”.* (Juan Carlos Bodoque, 31 minutos)
 
+## Obra/Ejercicio 
+
 ## Artistas referentes
 ### Gilberto Esparza (México)
 La obra de Gilberto Esparza se centra en el uso de medios electrónicos y robóticos para investigar los impactos de la tecnología en la vida cotidiana, las relaciones sociales, el medio ambiente y la estructura urbana. Su trabajo se realiza en colaboración con biólogos, botánicos y otros científicos lo que resulta en dispositivos y propuestas que diluyen la frontera entre ciencia y arte.
