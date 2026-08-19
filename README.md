@@ -27,6 +27,8 @@ CGG: Las hidroscopias analizan el fenómeno del extractivismo hídrico, es decir
 
 Interes en la obra...
 
-![img 2](img/Loa)
-Hidroscopia/Loa
-!
+![img 2](img/Loa.jpg)
+Hidroscopia/Loa (2018)
+
+![img 3](img/hidroscopia_mapocho_21.jpg)
+Hidroscopia/Mapocho (2016)
