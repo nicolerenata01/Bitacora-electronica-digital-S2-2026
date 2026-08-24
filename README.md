@@ -41,3 +41,11 @@ Hidroscopia/Mapocho (2016)
 
 ## Tecnologías electrónico/digitales/computacionales
 ###
+
+## Clase 12 de Agosto
+### Visita de Sean Moscoso
+1. ¿qué nueva herramienta, o aproximación computacional, reconociste luego de la visita de sean?
+
+2. ¿qué te despertó su trabajo en relación a tu propia obra? ¿te llamó su trabajo la atención lo suficiente para considerar incorporar nuevos elementos, textos, etc?
+
+3. ¿qué nuevos referentes artísticos conociste?
