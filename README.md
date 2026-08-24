@@ -16,7 +16,9 @@ La obra de Gilberto Esparza se centra en el uso de medios electrónicos y robót
 #### Plantas Nómadas (2008-2014)
 Plantas Nómadas es un proyecto de investigación que surge de reflexionar sobre los impactos ambientales y sociales que genera la actividad humana. Son organismos simbióticos construidos por un sistema robótico, una especie de vegetal orgánica y un conjunto de celdas de combustible microbianas y fotovoltaicas. Se trata de una especie autónoma cuyo ciclo metabólico tiene el potencial de restaurar a pequeña escala los daños ecológicos del entorno al restituir la energía que toma de la tierra. Al encontrar agua contaminada, la succiona y almacena en un grupo de celdas microbianas en las que las bacterias y microorganismos autóctonos se ocupan de biodegradar los deshechos orgánicos y transformar sustancias tóxicas. Este proceso metabólico genera electricidad que es almacenada mediante un sistema de cosecha de energía para cargar un conjunto de bacterias. El proceso de biodegradación mejora la calidad del agua, proporcionándola a las especies vegetales que habitan en ella. La planta nómada sobrevive en ambientes afectados por la contaminación del agua, principalmente en sonaste desastre ecológico afectadas por industrias y los deshechos de grandes centros urbanos.
 
-Interes en la obra...
+**Interés en la obra**: Dentro del bioarte hay una mirada positiva sobre las problemáticas que aborda, proponiendo distintas posibilidades, pero no necesariamente soluciones, en este caso si plantea una respuesta, usando diversos organismos que co-existen dentro de un sistema que busca limpiar y descontaminar un lugar, haciéndose parte del entorno y generando relaciones.
+
+“Vivir-con y morir-con de manera recíproca y vigorosa en el Chthuluceno puede ser una respuesta feroz a los dictados del Ántropos y el Capital”.  (“Seguir con el problema”, Haraway, p.21). Interpretando esta frase, debemos aprender a convivir con el entorno y entender que somos parte de ello. Vivir-con implica asumir nuestra coexistencia y responsabilidad dentro de los ecosistemas que habitamos.
 
 ![img 1](img/planta%20nomada.jpg)
 
@@ -27,10 +29,15 @@ Es artista medial independiente y gestora de proyectos educativos en arte y tecn
 #### Hidroscopia
 CGG: Las hidroscopias analizan el fenómeno del extractivismo hídrico, es decir, cómo los ríos están siendo intervenidos para la extracción y utilización de sus aguas, principalmente en la industria minera e hidroeléctrica. Entonces, la relación entre tecnología y naturaleza emerge desde la violencia que genera la intervención humana sobre estos cuerpos de agua a través del uso de tecnologías extractivas. Y, en este sentido, ya sabiendo el gran impacto que produce la industria sobre los ríos y sus ecosistemas, comienzo a preguntarme cuál es la dimensión sensible a partir de la cual los artistas podemos convocar una reflexión. Ahí pienso que la tecnología no tiene por qué ser invasiva: igualmente podemos desarrollar vínculos entre naturaleza y tecnología de formas no complejas. 
 
-Interes en la obra...
+**Interés en la obra**: La serie _Hidroscopías_ reflexiona sobre el vínculo entre la naturaleza y las personas, mostrando las diferentes formas en que nos relacionamos con un cauce o con un territorio. También muestra y se acompaña de una comunidad activa en la defensa de estos lugares. La forma y los materiales utilizados en sus ensambles hablan del territorio de una manera potente, haciendo que la materialidad también se convierta en una forma de contar y relacionarse con el lugar.
 
 ![img 2](img/Loa.jpg)
 Hidroscopia/Loa (2018)
 
 ![img 3](img/hidroscopia_mapocho_21.jpg)
 Hidroscopia/Mapocho (2016)
+
+###
+
+## Tecnologías electrónico/digitales/computacionales
+###
