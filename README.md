@@ -49,3 +49,9 @@ Hidroscopia/Mapocho (2016)
 2. ¿qué te despertó su trabajo en relación a tu propia obra? ¿te llamó su trabajo la atención lo suficiente para considerar incorporar nuevos elementos, textos, etc?
 
 3. ¿qué nuevos referentes artísticos conociste?
+
+## Clase 19 de Agosto
+### Processing
+
+## Clase 26 de Agosto 
+### Visita de Aarón Montoyaeer4
