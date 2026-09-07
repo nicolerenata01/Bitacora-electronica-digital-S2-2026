@@ -44,24 +44,38 @@ La obra de Yto Aranda se desarrolla en torno a las relaciones entre naturaleza, 
 #### ~~~desde la raíz~~~
 Esta obra surge de una investigación realizada en el bosque esclerófilo de Rao Caya, en Alhué, a partir de la observación y registro de su flora, fauna y funga, además de la investigación de las relaciones que ocurren bajo el suelo entre raíces y micorrizas. A partir de este proceso, Aranda construye una instalación que busca hacer perceptible esta red de conexiones mediante estructuras tejidas con fibras, luz, sonido y sensores.
 
-![img 4](Yto.jpg)
-
 **Interés en la obra**: Me interesa cómo Yto transforma una investigación territorial de años. En **Desde la raíz**, el estudio del bosque esclerófilo y de las relaciones subterráneas entre raíces y micorrizas se traduce mediante tejido, luz, sonido y tecnología. El tejido, particularmente, deja de ser solamente una técnica para convertirse en una forma de representar y pensar la interconexión del ecosistema. Utiliza Arduino, sensores de presencia y tacto, iluminación LED, sonido y video para generar una instalación interactiva, buscando traducir y hacer perceptibles relaciones que ocurren en el bosque y que normalmente permanecen ocultas.
+
+![img 4](img/Yto.jpg)
+Visita niños colegio de Pichi (Alhué) a exposición en Pichidegua (2025)
 
 
 ## Tecnologías electrónico/digitales/computacionales
-###
+### 
 
 ## Clase 12 de Agosto
 ### Visita de Sean Moscoso
-1. ¿qué nueva herramienta, o aproximación computacional, reconociste luego de la visita de sean?
+1. ¿qué nueva herramienta, o aproximación computacional, reconociste luego de la visita de sean?  
+Sonic Pi
+Pure Data 
 
-2. ¿qué te despertó su trabajo en relación a tu propia obra? ¿te llamó su trabajo la atención lo suficiente para considerar incorporar nuevos elementos, textos, etc?
+3. ¿qué te despertó su trabajo en relación a tu propia obra? ¿te llamó su trabajo la atención lo suficiente para considerar incorporar nuevos elementos, textos, etc?  
+Me llamó la atención algo con lo que trabajo pero intento evitar, la aletoriedad y la improvisación, Sean incorpora gran parte de estos elementos en su proceso, trabajando e improvisando en vivo, lo que hace que los resultados sean difíciles de repetir y que cada experiencia pueda generar una combinación distinta. Quizás podría incorporar y aceptar más esa posibilidad dentro de mi proceso, entendiendo que no todo tiene que estar previamente definido y que pueden aparecer resultados inesperados que también formen parte de la obra, especialmente porque trabajo constantemente con la naturaleza y el territorio, elementos que no pueden ser completamente controlados.
 
-3. ¿qué nuevos referentes artísticos conociste?
+4. ¿qué nuevos referentes artísticos conociste?  
+Huber Duprat
+Nicolás Briceño
+Gyorgy Ligeti (poema para 100 metrónomos)
 
 ## Clase 19 de Agosto
 ### Processing
+### Ejercicio/constructivismo ruso
 
 ## Clase 26 de Agosto 
 ### Visita de Aarón Montoyaeer4
+
+## Clase 2 de Septiembre
+Trabajo en processing con Mónica Bate, revisamos distintas funciones y referencias.
+**no alcancé a guardar el código en p5**
+![img](img/ejemplo.jpg)
+![img](img/algo%de%codigo.jpg)
