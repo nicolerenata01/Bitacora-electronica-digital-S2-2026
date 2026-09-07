@@ -37,7 +37,17 @@ Hidroscopia/Loa (2018)
 ![img 3](img/hidroscopia_mapocho_21.jpg)
 Hidroscopia/Mapocho (2016)
 
-###
+### Yto Aranda (Chile)
+
+La obra de Yto Aranda se desarrolla en torno a las relaciones entre naturaleza, tecnología y territorio. Sus procesos parten de investigaciones prolongadas en lugares específicos, donde observa, registra y experimenta con distintos fenómenos naturales para luego traducirlos mediante materiales, sonido, luz y dispositivos tecnológicos.
+
+#### ~~~desde la raíz~~~
+Esta obra surge de una investigación realizada en el bosque esclerófilo de Rao Caya, en Alhué, a partir de la observación y registro de su flora, fauna y funga, además de la investigación de las relaciones que ocurren bajo el suelo entre raíces y micorrizas. A partir de este proceso, Aranda construye una instalación que busca hacer perceptible esta red de conexiones mediante estructuras tejidas con fibras, luz, sonido y sensores.
+
+![img 4](Yto.jpg)
+
+**Interés en la obra**: Me interesa cómo Yto transforma una investigación territorial de años. En **Desde la raíz**, el estudio del bosque esclerófilo y de las relaciones subterráneas entre raíces y micorrizas se traduce mediante tejido, luz, sonido y tecnología. El tejido, particularmente, deja de ser solamente una técnica para convertirse en una forma de representar y pensar la interconexión del ecosistema. Utiliza Arduino, sensores de presencia y tacto, iluminación LED, sonido y video para generar una instalación interactiva, buscando traducir y hacer perceptibles relaciones que ocurren en el bosque y que normalmente permanecen ocultas.
+
 
 ## Tecnologías electrónico/digitales/computacionales
 ###
