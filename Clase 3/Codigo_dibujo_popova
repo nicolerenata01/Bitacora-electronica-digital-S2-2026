@@ -1,0 +1,135 @@
+function setup() {
+  createCanvas(650, 650);
+}
+
+function draw() {
+  background(0);
+
+  fill(255);
+  noStroke();
+beginShape();
+  vertex(50, 0);
+  vertex(75,0);
+  vertex (0, 75);
+  vertex(0, 50);
+  endShape(CLOSE);
+  beginShape();
+  vertex(100, 0);
+  vertex(125,0);
+  vertex (0, 125);
+  vertex(0, 100);
+  endShape(CLOSE);
+  beginShape();
+  vertex(150, 0);
+  vertex(175,0);
+  vertex (0, 175);
+  vertex(0, 150);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 0);
+  vertex(200,25);
+  vertex (0, 225);
+  vertex(0, 200);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 50);
+  vertex(200,75);
+  vertex (0, 275);
+  vertex(0, 250);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 100);
+  vertex(200,125);
+  vertex (0,325);
+  vertex(0, 300);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 150);
+  vertex(200,175);
+  vertex (50, 325);
+  vertex(25, 325);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 200);
+  vertex(200, 225);
+  vertex (100, 325);
+  vertex(75, 325);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 250);
+  vertex(200,275);
+  vertex (150, 325);
+  vertex(125, 325);
+  endShape(CLOSE);
+
+  beginShape();
+  vertex(200, 250);
+  vertex(200,225);
+  vertex (300, 325);
+  vertex(275, 325);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 200);
+  vertex(200,175);
+  vertex (350, 325);
+  vertex(325, 325);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 125);
+  vertex(200,150);
+  vertex (375, 325);
+  vertex(400, 325);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 75);
+  vertex(200,100);
+  vertex (400, 300);
+  vertex(400, 275);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 25);
+  vertex(200,50);
+  vertex (400, 250);
+  vertex(400, 225);
+  endShape(CLOSE);
+  beginShape();
+  vertex(200, 0);
+  vertex(225,0);
+  vertex (400, 175);
+  vertex(400, 200);
+  endShape(CLOSE);
+  beginShape();
+  vertex(250, 0);
+  vertex(275,0);
+  vertex (400, 125);
+  vertex(400, 150);
+  endShape(CLOSE);
+  beginShape();
+  vertex(300, 0);
+  vertex(325,0);
+  vertex (400, 75);
+  vertex(400, 100);
+  endShape(CLOSE);
+ 
+  copy(200, 0, 200, 325,0, 325, 200, 325 );
+  copy(0, 0, 200, 325,200, 325, 200, 325);
+  copy(0, 0, 400, 650,400, 0, 400, 650 );
+  
+  circulo(400, 325);
+  circulo(200, 0);
+  circulo(600, 0);
+  circulo(0, 325);
+  circulo(200, 650);
+  circulo(600, 650);
+}
+function circulo(x, y) {
+
+  fill(0, 0, 220);
+  circle(x, y, 200);
+
+  fill(255);
+  circle(x, y, 150);
+
+  fill(0, 0, 220);
+  circle(x, y, 125);
+}
