@@ -1,5 +1,13 @@
 ## Clase 19 de Agosto
+### Github
+`github.dev` para editar repositorio    
+`(.)` para ir a la edición   
+`![Texto alternativo](imagen.png)` para agregar una imagen, el texto alternativo es para la descripción de la imagen   
+dentro de `()` va la ruta de la imagen       
+El `./` significa el lugar donde está el archivo que estoy editando    
+Para cargar enlaces `[título del link](Link)`    
 ### Processing
+[Referencias de Processing](https://processing.org/reference)   
 //Trabajando con p5.js porque no puedo descargar processing
 
 ### Ejercicio/constructivismo ruso
