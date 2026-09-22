@@ -14,5 +14,5 @@ Para cargar enlaces `[título del link](Link)`
 ![img](img/popova.jpg)  
 ![img](img/Popova_cod.jpg)  
 [Código](https://editor.p5js.org/nicolerenata01/sketches/tMiVHUHoO)  
-//Mal cálculo de tamaño, puse más lineas de las que eran y lo hice en espejo, pero se parece. Aún puede ser optimizado.
+//Mal cálculo de tamaño, puse más lineas de las que eran y lo hice en espejo, pero se parece. Aún puede ser optimizado.   
 //Entendí mal el encargo xd, pero sirve para probar
