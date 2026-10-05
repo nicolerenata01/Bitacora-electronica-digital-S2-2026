@@ -6,4 +6,9 @@ V = I*R
 una pata de arduino entrega 5 [V], 20-40 [mA]    
 -> carga + = ánodo    
     -> carga - = cátodo    
-![img](led.jpg) 
+![img](led.jpg)    
+[SOS morse](https://youtu.be/Emzg5uT2EP4)
+
+
+### Encargo
+[Frase en morse](https://youtu.be/kLEczON7nTM?si=6yRtDYJgKX0-cCil)
