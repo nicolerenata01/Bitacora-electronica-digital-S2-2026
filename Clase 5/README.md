@@ -1,8 +1,9 @@
 ## Clase 2 de Septiembre
-Trabajo en processing con Mónica Bate, revisamos distintas funciones y referencias.  
+Trabajo en processing con Mónica Bate, revisamos distintas funciones y referencias.    
+Figuras 2D, coordenadas y transformaciones geométricas.   
 **no alcancé a guardar el código en p5**
 ![img](img/ejemplo.jpg)
 Ejercicio de la clase, para manejo de referencias.
 ![img](img/algo%20de%20codigo.jpg)  
-Lo que alcancé a sacar de ese día
+Lo que alcancé a sacar de ese día.
 
