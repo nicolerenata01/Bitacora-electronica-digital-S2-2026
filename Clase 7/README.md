@@ -1,4 +1,4 @@
-## CLase 23 de septiembre
+## Clase 23 de septiembre
 ### Arduino
 Revision de corriente    
 Corriente =  flujo de electrones [V]    
