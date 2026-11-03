@@ -22,5 +22,7 @@ variable = analogRead(potenciometroPin); // Leer una entrada analógica
 analogWrite(ledPin, valor); // Controlar una salida PWM   
 
 Divisor de voltaje   
-![img](Pot.jpg)
+![img](Pot.jpg)   
+Entradas analógicas con los pines de A0 - A5 de un potenciómetro (resistencia variable)   
+dividir por 4 el valor de la entrada, ya que estaba en un rango entre 0 y 1023, y la salida está de 0 a 255    
 
