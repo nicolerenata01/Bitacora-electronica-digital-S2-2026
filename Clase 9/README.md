@@ -1,4 +1,4 @@
-## Clase 7 de octubre
+ ## Clase 7 de octubre
 
 Las entradas analógicas utilizan analogRead(numeroPin) para leer valores entre 0 y 1023, por ejemplo, desde un potenciómetro o un sensor LDR, y funcionan en los pines analógicos A0 a A5. Las salidas analógicas utilizan analogWrite(numeroPin, valor) para controlar la intensidad de un LED mediante valores entre 0 y 255, en ciertos pines digitales compatibles con PWM (~)   
 Las entradas digitales utilizan digitalRead(numeroPin) para leer estados de botones, mientras que las salidas digitales utilizan digitalWrite(numeroPin, variable) para controlar luces u otros componentes mediante estados de encendido y apagado (HIGH y LOW).   
@@ -98,3 +98,4 @@ La **pantalla OLED de 0.96"** es un módulo gráfico autoiluminado de alta visib
 *   **Consumo de energía:** ~0.08 W (con todos los píxeles encendidos).
 
 conversor de imágenes para pantalla https://javl.github.io/image2cpp/
+
