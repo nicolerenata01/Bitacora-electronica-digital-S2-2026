@@ -87,4 +87,14 @@ Codprofe pot arduino pantalla
 }
 ```
 ### Pantalla LCD Oled Azul y Amarillo 0,96
+La **pantalla OLED de 0.96"** es un módulo gráfico autoiluminado de alta visibilidad, ideal para proyectos con microcontroladores gracias a su comunicación por bus I2C y su bajo consumo energético.
+#### Especificaciones Técnicas
+*   **Resolución:** 128 × 64 píxeles.
+*   **Tamaño:** 0.96 pulgadas (Color dividido: franja superior amarilla, sección inferior azul).
+*   **Controlador:** SSD1306.
+*   **Interfaz:** I2C (Dirección por defecto: `0x3C` o `0x3D`).
+*   **Pines de conexión:** 4 pines (VCC, GND, SCL, SDA).
+*   **Voltaje de operación:** 3.3V a 5.0V CC.
+*   **Consumo de energía:** ~0.08 W (con todos los píxeles encendidos).
 
+conversor de imágenes para pantalla https://javl.github.io/image2cpp/
