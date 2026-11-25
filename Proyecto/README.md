@@ -46,6 +46,7 @@ Me interesa observar cómo un acontecimiento físico, aparentemente pequeño y c
 #### Dibujo esquemático (cómo va conectado al Arduino):
 ![img](max4466.jpg)    
 MAX4466
+
 ![img](sens.jpg)     
 YL-83
 
