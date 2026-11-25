@@ -44,8 +44,10 @@ Me interesa observar cómo un acontecimiento físico, aparentemente pequeño y c
 **Construcción progresiva de una línea que representa un río**    
 
 #### Dibujo esquemático (cómo va conectado al Arduino):
-![img](max4466.jpg) 
-![img](sens.jpg) 
+![img](max4466.jpg)    
+MAX4466
+![img](sens.jpg)     
+YL-83
 
 #### Boceto de instalación. Ojalá tenga escala, referencias, sitio en la sala, sensores y actuadores: 
 ![img](Boceto.jpeg)    
